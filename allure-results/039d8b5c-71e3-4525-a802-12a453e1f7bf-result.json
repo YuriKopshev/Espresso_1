@@ -1,0 +1,53 @@
+{
+    "name": "mainActivityHomeTest",
+    "start": 1670410120298,
+    "stop": 1670410121574,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "039d8b5c-71e3-4525-a802-12a453e1f7bf",
+    "historyId": "e7812d1fb38db14a66726d4be0b30e63",
+    "fullName": "com.example.myapplication.MainActivityTest.mainActivityHomeTest",
+    "labels": [
+        {
+            "name": "package",
+            "value": "com.example.myapplication"
+        },
+        {
+            "name": "testClass",
+            "value": "com.example.myapplication.MainActivityTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "mainActivityHomeTest"
+        },
+        {
+            "name": "suite",
+            "value": "com.example.myapplication.MainActivityTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(705)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}
